@@ -9,6 +9,7 @@ date: '2016-09-04'
 thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 template: post
+content_img_path: images/art-logo.svg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
